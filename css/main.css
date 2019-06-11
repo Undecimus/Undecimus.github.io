@@ -2,9 +2,14 @@ body
 { 
 	font-family: -apple-system, sans-serif;
 	text-align: center;
-	color: white;
+	color: black;
 	text-decoration: none;
 	font-weight: bold;
+}
+
+.backdrop
+{
+	width: 100%
 }
 
 .icon
@@ -13,7 +18,7 @@ body
     height:250px;
 }
 
-.hp
+p
 {
     font-size: 60px;
 }
